@@ -1,0 +1,5 @@
+node_modules/
+backend/rental.db
+frontend/dist
+.env
+*.log
